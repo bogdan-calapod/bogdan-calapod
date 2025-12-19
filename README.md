@@ -12,6 +12,8 @@ I'm a dev that's excited about all things tech 🤩 Here are some of my favorite
   * Pairs nicely with [Sketchybar](https://github.com/FelixKratz/SketchyBar) - check out [my dots](https://github.com/bogdan-calapod/dotfiles) if you wanna see how I use it!
 * [presenterm](https://github.com/mfontanini/presenterm) for making cool presentations in the terminal
 * [btop](https://github.com/aristocratos/btop) and [lazydocker](https://github.com/jesseduffield/lazydocker) for cool resource management
+* Need a scale but have just a mac ? [Check this out](https://github.com/KrishKrosh/TrackWeight)
+
 
 
 <!--
